@@ -9,7 +9,7 @@ const config = {
   title: 'Bybit API Documentation',
   tagline: '',
   url: 'https://bybit-exchange.github.io',
-  baseUrl: '/offline/',
+  baseUrl: '/doc-v3-offline/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
